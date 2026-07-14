@@ -1,2 +1,20 @@
 # A-comprehensive-measure-of-well-being
-he Human Development Index (HDI) is a statistical composite index of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers Very High, High, Medium, and Low of human development.
+**HDI-Track-project-Template**
+
+**Repository Structure**
+
+1.Brainstorming & Ideation
+
+2.Requirement Analysis
+
+3.Project Design Phase
+
+4.Project Planning Phase
+
+5.Project Development Phase
+
+6.Project Testing
+
+7.Project Documentation
+
+8.Project Demonstration
