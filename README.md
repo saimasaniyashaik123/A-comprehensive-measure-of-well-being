@@ -1,5 +1,4 @@
-# A-comprehensive-measure-of-well-being
-**HDI-Track-project-Template**
+**HDI-Track-Project-Template**
 
 **Repository Structure**
 
@@ -18,3 +17,4 @@
 7.Project Documentation
 
 8.Project Demonstration
+
